@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertatioinca00heidgoog_0114.png"; bbox 0 0 860 1375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 147 185 197 194">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 147 185 197 194">
+     <span class='ocr_line' id='line_1_1' title="bbox 147 185 197 194; baseline 0 1181"><span class='ocrx_word' id='word_1_1' title='bbox 147 185 197 194; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 363 540 797 609">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 363 540 797 609">
+     <span class='ocr_line' id='line_1_2' title="bbox 364 540 781 563; baseline -0.002 -4"><span class='ocrx_word' id='word_1_2' title='bbox 364 541 422 559; x_wconf 68' lang='grc'><strong>0857</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 452 541 628 563; x_wconf 64' lang='lat' dir='ltr'>Hemenreich,</span> <span class='ocrx_word' id='word_1_4' title='bbox 646 540 672 559; x_wconf 78' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_5' title='bbox 709 540 781 558; x_wconf 75' lang='grc'>98244</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 363 565 783 584; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 363 566 407 584; x_wconf 82' lang='lat'>1-146</span> <span class='ocrx_word' id='word_1_7' title='bbox 483 566 646 584; x_wconf 72' lang='lat' dir='ltr'><strong>D1ssertat1o</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 663 565 692 583; x_wconf 65' lang='lat' dir='ltr'>:tn</span> <span class='ocrx_word' id='word_1_9' title='bbox 709 569 783 583; x_wconf 71' lang='lat' dir='ltr'>casum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 364 591 797 609; baseline -0.002 0"><span class='ocrx_word' id='word_1_10' title='bbox 364 591 421 609; x_wconf 66' lang='grc'>1890</span> <span class='ocrx_word' id='word_1_11' title='bbox 454 591 558 609; x_wconf 69' lang='lat' dir='ltr'>alterum</span> <span class='ocrx_word' id='word_1_12' title='bbox 575 591 797 608; x_wconf 61' lang='lat' dir='ltr'>constsstutlonsss..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 47 236 828 1342">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 47 236 828 1342">
+     <span class='ocr_line' id='line_1_5' title="bbox 47 236 828 1342; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 47 236 828 1342; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
